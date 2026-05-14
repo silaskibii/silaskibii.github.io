@@ -1,12 +1,12 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyBsLv0c5B5AmowbHj09Dn61cWev5co0sRE",
-  authDomain: "attendance-c50bd.firebaseapp.com",
-  databaseURL: "https://attendance-c50bd-default-rtdb.europe-west1.firebasedatabase.app",
-  projectId: "attendance-c50bd",
-  storageBucket: "attendance-c50bd.firebasestorage.app",
-  messagingSenderId: "299624767526",
-  appId: "1:299624767526:web:0d5bb122aebd6f420486e7",
-  measurementId: "G-2DK57MZCPE"
+  apiKey: "AIzaSyA98MQO4OoOOsnq-TpMV9vuYAgTk-x7zxA",
+  authDomain: "smartattendance-aa94a.firebaseapp.com",
+  databaseURL: "https://smartattendance-aa94a-default-rtdb.firebaseio.com",
+  projectId: "smartattendance-aa94a",
+  storageBucket: "smartattendance-aa94a.firebasestorage.app",
+  messagingSenderId: "417764530152",
+  appId: "1:417764530152:web:c0150e83613e89936e765d",
+  measurementId: "G-HNQYM24D7F"
 };
 
 // Initialize Firebase
